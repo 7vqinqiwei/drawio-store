@@ -16,7 +16,7 @@
             <mxPoint x="384" y="620" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="LWi7Ic_0PBdndrIsriia-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;shape=arrow;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-1" target="LWi7Ic_0PBdndrIsriia-4">
+        <mxCell id="LWi7Ic_0PBdndrIsriia-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shape=arrow;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-1" target="LWi7Ic_0PBdndrIsriia-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-10" value="通过设备ID绑定" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="LWi7Ic_0PBdndrIsriia-9">
@@ -31,7 +31,7 @@
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-2" value="服务端&lt;div&gt;业务模型&lt;/div&gt;&lt;div&gt;业务存储&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="650" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="740" y="580" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-4" target="OEhnnd2OqHWiDYyRvEhz-1">
           <mxGeometry relative="1" as="geometry" />
@@ -43,25 +43,29 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-4" value="APP" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="620" width="120" height="60" as="geometry" />
+          <mxGeometry x="270" y="580" width="350" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="LWi7Ic_0PBdndrIsriia-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-13" target="LWi7Ic_0PBdndrIsriia-4">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="LWi7Ic_0PBdndrIsriia-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.466;entryY=1.008;entryDx=0;entryDy=0;dashed=1;entryPerimeter=0;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-13" target="LWi7Ic_0PBdndrIsriia-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="770" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-13" value="离线模型" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="354" y="770" width="120" height="60" as="geometry" />
+          <mxGeometry x="320" y="770" width="154" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-18" value="用户数据" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="620" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-19" value="声纹识别" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="490" width="50" height="20" as="geometry" />
+          <mxGeometry x="140" y="480" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-20" value="远场进场" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="530" width="50" height="20" as="geometry" />
+          <mxGeometry x="140" y="510" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-22" value="TTS" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="565" width="50" height="20" as="geometry" />
+          <mxGeometry x="140" y="540" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-23" value="用户指令" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="660" width="50" height="20" as="geometry" />
@@ -71,6 +75,15 @@
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-26" value="识别结果" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="460" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-28" value="会话记录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="540" y="660" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-30" value="转写策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="620" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-31" value="翻译策略" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
