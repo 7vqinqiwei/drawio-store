@@ -124,6 +124,15 @@
         <mxCell id="LWi7Ic_0PBdndrIsriia-45" value="视觉AI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="510" width="50" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-48" value="声音" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="480" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-50" value="图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="500" width="50" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-51" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="520" width="50" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
