@@ -30,6 +30,9 @@
         <mxCell id="LWi7Ic_0PBdndrIsriia-1" value="智能眼镜" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="354" y="410" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="LWi7Ic_0PBdndrIsriia-2" target="LWi7Ic_0PBdndrIsriia-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-2" value="服务端&lt;div&gt;业务模型&lt;/div&gt;&lt;div&gt;业务存储&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="740" y="580" width="120" height="120" as="geometry" />
         </mxCell>
