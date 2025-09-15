@@ -138,11 +138,14 @@
         <mxCell id="LWi7Ic_0PBdndrIsriia-50" value="图像" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="500" width="50" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="LWi7Ic_0PBdndrIsriia-51" value="空间" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LWi7Ic_0PBdndrIsriia-51" value="物品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="520" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="LWi7Ic_0PBdndrIsriia-53" value="数据看板" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="740" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LWi7Ic_0PBdndrIsriia-57" value="场景" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="290" y="540" width="50" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
